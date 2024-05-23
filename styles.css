@@ -1,0 +1,8 @@
+.parent-container{
+display: flex;
+}
+.child-item{
+    width: 200px;
+    height: 200px;
+    color: blue;
+}
