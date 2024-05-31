@@ -17,9 +17,11 @@ padding: 5px:
 }
 .input-box {
     background: pink;
+    min-inline-size: 50%;
     padding: 5px;
     padding-block: 5px;
     margin: auto;
+    border-radius: 10px;
     -webkit-background-clip: blur(50px);
     backdrop-filter: blur(50px);
     box-shadow: -6px 8px 10px rgba(81,41,10,0.1),0px 2px 2px rgba(81,41,10,0.2);
